@@ -42,7 +42,7 @@ export default function Filters({
   return (
     <>
       <FilterContainer>
-        <form onSubmit={(e) => handleSubmit(e, true)}>
+        <form onSubmit={handleSubmit}>
           <SearchInput placeholder="Search" onChange={handleSearch} name="search" value={searchValue} />
         </form>
         <div>

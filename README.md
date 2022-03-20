@@ -5,7 +5,7 @@
 - Clone this project
 
 ```
-git clone https://github.com/veral-dev/.git
+git clone https://github.com/veral-dev/nyt-articles.git
 ```
 
 ## Install and run website
@@ -39,4 +39,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 ## Project deployed here
 
-[https://.netlify.app/](https://.netlify.app/) to view it in the browser.
+[https://optimistic-nobel-07319c.netlify.app/](https://optimistic-nobel-07319c.netlify.app/) to view it in the browser.
